@@ -1,0 +1,2 @@
+conda create -n car_prediction python=3.7, activate car_prediction, jupyter notebook
+
